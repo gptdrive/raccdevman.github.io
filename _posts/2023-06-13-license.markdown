@@ -1,23 +1,44 @@
 ---
 layout: post
-title:  "Privcy Policy For ChatDrive"
-date:   2023-06-11 16:26:09 +0900
-categories: privacy
+title:  "License"
+date:   2023-06-13 23:43:52 +0900
+categories: license
 ---
-# ChatDrive - Privacy Policy
+# Licenses
 
-This Privacy Policy outlines our commitment to protecting your privacy and sets forth our practices related to the use and safeguarding of information you provide while using the ChatDrive app.
+This application incorporates the use of the following open source software:
 
-## Respect for Your Privacy
+## Apache 2.0 License
 
-We value your privacy and are committed to safeguarding it. Our current framework adheres to best practices and applicable laws. At this time, the app collects minimal personal data - your email, id-token, and profile information. However, we do not have access to this data or use it beyond the requirements of the application's functionality.
+**google_mobile_ads**
 
-## Future Updates and Your Responsibility
+This software is subject to the terms and conditions of the Apache 2.0 License. A copy of this License may be found at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-We are continuously working to enhance your experience with our app. As part of future updates, we might introduce a bulletin board feature, providing a platform for users to post information. If and when this feature is enabled, you will bear responsibility for any personal information you choose to share. Therefore, we urge you to exercise caution and discernment when posting data.
+Unless otherwise stipulated by applicable law or agreed upon in written form, software disseminated under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. Refer to the License for the specific language governing permissions and limitations under the License.
 
-## Compliance with Privacy Standards and Laws
+## MIT License
 
-In alignment with global privacy standards and regulations, we pledge to handle any potential future collection of personal data responsibly and transparently. Prior to launching any feature that could result in such collection, we will update this policy to reflect the changes and ensure you stay informed about how we manage and protect your information.
+**highlight_text**
+**flutter_highlighter**
+**flutter_layout_grid**
+**markdown_widget**
+**googledrivehandler**
 
-For any questions or concerns regarding this privacy policy, please feel free to contact us. We remain committed to maintaining a secure and trustworthy environment for our users.
+This software is subject to the terms and conditions of the MIT License. The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
+
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+
+## BSD-3-Clause License
+
+**widget_visibility_detector**
+**markdown**
+**share_plus**
+
+## Modified library
+
+The following open-source software has been modified for use in this application to support custom tags
+
+**markdown**
+**markdown_widget**
+**googledrivehandler**
