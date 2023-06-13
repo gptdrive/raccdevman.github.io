@@ -21,4 +21,3 @@ We are continuously working to enhance your experience with our app. As part of 
 In alignment with global privacy standards and regulations, we pledge to handle any potential future collection of personal data responsibly and transparently. Prior to launching any feature that could result in such collection, we will update this policy to reflect the changes and ensure you stay informed about how we manage and protect your information.
 
 For any questions or concerns regarding this privacy policy, please feel free to contact us. We remain committed to maintaining a secure and trustworthy environment for our users.
-
