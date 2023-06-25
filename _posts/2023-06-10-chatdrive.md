@@ -6,6 +6,8 @@ categories: guide
 ---
 
 # ChatDrive Usage Guide
+![Image](https://raw.githubusercontent.com/raccdevman/raccdevman.github.io/main/_posts/assets/stage7.png)
+(Here is an example that was also used in Bard.)
 
 ChatDrive is an application that allows users to save and manage their AI chat conversations, which they've had using platforms like Bard, ChatGPT, etc. This tool has both a Chrome extension and an Android application.
 
@@ -30,10 +32,6 @@ Press the Sync button located at the top right corner. This will fetch your save
 
 ![Image](https://raw.githubusercontent.com/raccdevman/raccdevman.github.io/main/_posts/assets/stage6.png)
 Now, you can view your saved conversation.
-
-## Step 7: Sample Conversation 
-![Image](https://raw.githubusercontent.com/raccdevman/raccdevman.github.io/main/_posts/assets/stage7.png)
-Here is an example that was also used in Bard.
 
 # Note
 ChatDrive currently only supports Chrome. Thus, for services like BingChat that only function in Bing, you would have to use a third-party tool that allows BingChat to operate in Chrome.
